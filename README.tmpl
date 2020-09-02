@@ -1,6 +1,6 @@
 # NGINX with additional modules
 
-The same as official Docker image for nginx (alpine version) but next modules adeded:
+The same as official Docker image for nginx (alpine version) but next modules added:
 
 - [ngx_http_geoip2_module](https://github.com/leev/ngx_http_geoip2_module)
 - [ngx_aws_auth](https://github.com/anomalizer/ngx_aws_auth/tree/AuthV2)
